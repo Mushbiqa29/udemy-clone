@@ -42,4 +42,4 @@ udemy-clone/
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live Udemy Clone Website](https://your-github-username.github.io/your-repo-name)
+👉 [Click here to view the live Udemy Clone Website] https://mushbiqa29.github.io/udemy-clone/
